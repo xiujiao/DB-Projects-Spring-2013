@@ -8,11 +8,11 @@ This course was offered by [Oliver Kennedy](http://www.cse.buffalo.edu/people/?u
 It has three projects as follows
 
 
-** DB SQL Parser in JavaCC**
+**DB SQL Parser in JavaCC**
 
 https://github.com/xiujiao/DB-SQL-parser.git
 
-** DB Build Index**
+**DB Build Index**
 
 https://github.com/xiujiao/DB-Build-Index.git
 
