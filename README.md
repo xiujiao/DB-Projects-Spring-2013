@@ -3,7 +3,7 @@ DB-Projects-Spring-2013
 
 Database System Projects for Spring 2013 at University at Buffalo
 
-This course was offered by [Oliver Kennedy](http://www.cse.buffalo.edu/people/?u=okennedy) @ UB.
+This course was offered by [Oliver Kennedy](http://www.cse.buffalo.edu/people/?u=okennedy) @ UB. Yan Li, Lei Lin and me were on one team.
 
 It has three projects as follows
 
